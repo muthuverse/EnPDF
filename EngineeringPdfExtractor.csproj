@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>  <!-- Windows target required for file dialog -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>EngineeringPdfExtractor</AssemblyName>
+    <RootNamespace>PdfExtractor.Engineering</RootNamespace>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+
+    <!-- Enables System.Windows.Forms.OpenFileDialog with NO extra NuGet package.
+         Built into .NET 8 on Windows. Required for the file browser dialog. -->
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <!-- No external NuGet dependencies required. -->
+  <ItemGroup />
+
+</Project>
+

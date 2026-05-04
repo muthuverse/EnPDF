@@ -1,0 +1,51 @@
+﻿
+╔══════════════════════════════════════════════════════╗
+║      ENGINEERING DRAWING — EXTRACTION RESULT         ║
+╚══════════════════════════════════════════════════════╝
+  Pages        : 1
+  Text elements: 17
+  Images       : 0
+
+── ENPDF DIAGNOSTIC REPORT ─────────────────────────────
+  PDF Type          : Native text/vector PDF
+  Text Extractable  : YES
+  Text Operators    : YES
+  Image XObjects    : NO
+  Object Streams    : NO
+  XRef Stream       : NO
+  Encrypted         : NO
+  Fonts:
+    /F1     obj 5    /Type0  /Identity-H    base=SegoeUISymbol embedded=NO ToUnicode=YES (161) dup=0
+  Issues:
+    - No blocking structural issue detected by diagnostic mode.
+  Recommendations:
+    - CID /Identity-H fonts are present; extraction must apply /ToUnicode CMap.
+
+── TITLE BLOCK ─────────────────────────────────────────
+
+── DIMENSIONS  (0 found) ────────────────────────
+
+── TABLES  (0 found) ────────────────────────────────
+── TOLERANCES  (1 found) ────────────────────
+  Tolerance symbols: ±0.05, +0.10/-0.05, ≤3.2 μm, ≥10 N·m, 90°, 45°.
+
+── IMAGES  (0 found) ─────────────────────────────
+
+── ALL TEXT  (top → bottom, left → right) ──────────────
+  [    36,   558]  sz13.0  "ENGINEERING / NON-ENGINEERING CHARACTER TEST NOTE"
+  [    36,   542]  sz13.0  "Purpose: native PDF text test for EnPDF extraction; no OCR and no third-party PDF generator."
+  [    36,   526]  sz13.0  "Standard dimensions: 120.00 mm, 50.00 mm, R2.5, R17.5, Ø38, ⌀11, 2× M8."
+  [    36,   510]  sz13.0  "Tolerance symbols: ±0.05, +0.10/-0.05, ≤3.2 μm, ≥10 N·m, 90°, 45°."
+  [    36,   494]  sz13.0  "GD&T symbols: ⌀ diameter, ⌖ position, ⟂ perpendicularity, ∥ parallelism, ⌭ cylindricity."
+  [    36,   478]  sz13.0  "GD&T continued: ○ circularity, ⌓ profile, ⌒ arc/profile, ⌯ symmetry, ↗ runout, Ⓜ MMC, Ⓛ LMC, Ⓢ RFS."
+  [    36,   462]  sz13.0  "Datums and callouts: datum A|B|C, target ⊕, triangle ▽, square □, leader arrow →, angle ∠."
+  [    36,   446]  sz13.0  "Surface and process: Ra 3.2 μm, roughness √, hardness 45 HRC, temperature 20 ℃."
+  [    36,   430]  sz13.0  "Math symbols: = ≠ ≈ ∑ ∆ Δ δ π λ α β γ Ω ∞ √ ∫ × ÷ · •."
+  [    36,   414]  sz13.0  "Units: mm, cm, m, in, ft, kg, g, N, kN, MPa, GPa, rpm, s, ms, µm, μm."
+  [    36,   398]  sz13.0  "Punctuation: "double quotes", 'single quotes', en dash – em dash — ellipsis … slash / backslash \."
+  [    36,   382]  sz13.0  "Currency and legal: ₹ $ € £ ¥ © ® ™ § ¶."
+  [    36,   366]  sz13.0  "Latin accents: café, naïve, façade, résumé, Ångström, São Paulo, München."
+  [    36,   350]  sz13.0  "Indian language sample: தமிழ், हिंदी, ಕನ್ನಡ, తెలుగు, മലയാളം."
+  [    36,   334]  sz13.0  "Greek sample: Α Β Γ Δ Ω α β γ δ μ π σ φ."
+  [    36,   318]  sz13.0  "Checklist: selectable text YES; vector text YES; embedded font NO; ToUnicode YES."
+  [    36,   302]  sz13.0  "Expected extraction: all characters above should appear as Unicode text in the report."
